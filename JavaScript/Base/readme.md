@@ -5,7 +5,7 @@
 1. Презентации 
 2. Книга http://kharchuk.ru/JavaScript.pdf
 3. Источник https://learn.javascript.ru
-4. CodeAcademy tasks
+4. Other tasks
 
 ## 1 lesson
 
@@ -22,24 +22,24 @@ https://drive.google.com/open?id=0B3gh58c3n_FXTy1mQkVXTlk1RUE
 
 #### Книга
 
-2 раздел - весь
-3 раздел - 3.1 - 3.8 && 3.12, 3.14, 3.15
-4 раздел - 4.1 - 4.2
+* 2 раздел - весь
+* 3 раздел - 3.1 - 3.8 && 3.12, 3.14, 3.15
+* 4 раздел - 4.1 - 4.2
 
 #### learn.javascript:
 
-https://learn.javascript.ru/external-script
-https://learn.javascript.ru/variables
-https://learn.javascript.ru/variable-names
-https://learn.javascript.ru/types-intro
-https://learn.javascript.ru/operators
-https://learn.javascript.ru/comparison
-https://learn.javascript.ru/types-conversion
+* https://learn.javascript.ru/external-script
+* https://learn.javascript.ru/variables
+* https://learn.javascript.ru/variable-names
+* https://learn.javascript.ru/types-intro
+* https://learn.javascript.ru/operators
+* https://learn.javascript.ru/comparison
+* https://learn.javascript.ru/types-conversion
 
 #### Другое:
 
-https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Basics
+* https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#Basics
 
 ### Домашнее задание
 
