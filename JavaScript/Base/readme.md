@@ -43,7 +43,7 @@ https://drive.google.com/open?id=0B3gh58c3n_FXTy1mQkVXTlk1RUE
 
 ### Домашнее задание
 
-Папка 1 lesson
+Папка lesson1
 
 ## 2 lesson
 
