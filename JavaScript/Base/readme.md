@@ -147,6 +147,44 @@ https://drive.google.com/open?id=0B3gh58c3n_FXcmlJY3N2a0t4dEU
 * https://learn.javascript.ru/array-methods
 * https://learn.javascript.ru/number
 
+### Other
+
+Array:
+
+* https://learn.javascript.ru/array-methods
+
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/join
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/pop
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/push
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift
+
+String:
+
+* https://learn.javascript.ru/string
+
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/charAt
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/search
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/split
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/substring
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/Trim
+
+Date:
+
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Date
+* https://learn.javascript.ru/datetime
+
 ### Домашнее задание
 
 Папка lesson4
@@ -173,6 +211,8 @@ https://drive.google.com/open?id=0B3gh58c3n_FXRk5xM3d3NmZjd0k
 
 #### learn.javascript:
 
+* https://learn.javascript.ru/arguments-pseudoarray
+* https://learn.javascript.ru/recursion
 * https://learn.javascript.ru/global-object
 * https://learn.javascript.ru/closures
 * https://learn.javascript.ru/scope-new-function
@@ -226,7 +266,7 @@ https://drive.google.com/open?id=0B3gh58c3n_FXRk5xM3d3NmZjd0k
 
 #### Презентации
 
-https://drive.google.com/open?id=0B3gh58c3n_FXRk5xM3d3NmZjd0k
+https://drive.google.com/open?id=0B3gh58c3n_FXRk5xM3d3NmZjd0k <br/>
 https://drive.google.com/open?id=0B3gh58c3n_FXZjlFOVB3SzROUlU
 
 #### Книга
@@ -246,6 +286,15 @@ https://drive.google.com/open?id=0B3gh58c3n_FXZjlFOVB3SzROUlU
 * https://learn.javascript.ru/classes
 * https://learn.javascript.ru/class-inheritance
 * https://learn.javascript.ru/instanceof
+
+### Other
+
+* https://learn.javascript.ru/prtototype
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/proto
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/create
 
 ### Домашнее задание
 
