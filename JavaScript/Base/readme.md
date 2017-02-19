@@ -183,37 +183,6 @@ https://drive.google.com/open?id=0B3gh58c3n_FXRk5xM3d3NmZjd0k
 
 Папка lesson5
 
-
-## 4 lesson
-
-* Работа с объектом Math
-* Работа с объектом Date
-* Работа со строками
-* Работа с массивами
-
-### Материалы
-
-#### Презентации
-
-https://drive.google.com/open?id=0B3gh58c3n_FXcmlJY3N2a0t4dEU
-
-#### Книга
-
-* 3 раздел - 3.12 - 3.14
-* 6 раздел - 6.7 - 6.10
-* 7 раздел - 7.5 - 7.8
-* 8 раздел - 8.1 - 8.4
-
-#### learn.javascript:
-
-* https://learn.javascript.ru/array-iteration
-* https://learn.javascript.ru/array-methods
-* https://learn.javascript.ru/number
-
-### Домашнее задание
-
-Папка lesson4
-
 ## 6 lesson
 
 * Понятие замыкания и области применения
