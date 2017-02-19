@@ -81,7 +81,6 @@ https://drive.google.com/open?id=0B3gh58c3n_FXTTZOYmZLX0FGdzg
 * https://learn.javascript.ru/ifelse
 * https://learn.javascript.ru/switch
 * https://learn.javascript.ru/logical-ops
-* https://learn.javascript.ru/object-reference
 * https://learn.javascript.ru/array
 
 ### Домашнее задание
@@ -106,16 +105,15 @@ https://drive.google.com/open?id=0B3gh58c3n_FXcmlJY3N2a0t4dEU
 
 #### Книга
 
-* 3 раздел - 3.12 - 3.14
+* 3 раздел - 3.12 - 3.15
 * 6 раздел - 6.7 - 6.10
-* 7 раздел
-* 8 раздел
+* 7 раздел - 7.1 - 7.7
+* 8 раздел - 8.1 - 8.4
 
 #### learn.javascript:
 
+* https://learn.javascript.ru/object-reference
 * https://learn.javascript.ru/while-for
-* https://learn.javascript.ru/array-iteration
-* https://learn.javascript.ru/array-methods
 * https://learn.javascript.ru/object-for-in
 * https://learn.javascript.ru/object-conversion
 
@@ -140,20 +138,20 @@ https://drive.google.com/open?id=0B3gh58c3n_FXcmlJY3N2a0t4dEU
 
 * 3 раздел - 3.12 - 3.14
 * 6 раздел - 6.7 - 6.10
-* 7 раздел
-* 8 раздел
+* 7 раздел - 7.5 - 7.8
+* 8 раздел - 8.1 - 8.4
 
 #### learn.javascript:
 
-* https://learn.javascript.ru/while-for
 * https://learn.javascript.ru/array-iteration
 * https://learn.javascript.ru/array-methods
-* https://learn.javascript.ru/object-for-in
-* https://learn.javascript.ru/object-conversion
+* https://learn.javascript.ru/number
 
 ### Домашнее задание
 
-Папка lesson3
+Папка lesson4
+
+## 5 lesson
 
 * Глобальный объект window ссылка this
 * Области видимости и где они есть
@@ -162,6 +160,31 @@ https://drive.google.com/open?id=0B3gh58c3n_FXcmlJY3N2a0t4dEU
 * Ссылка this и ее контексты в разных областях видимости
 * Вложенные функции
 * Вызов функции через call || apply
+
+### Материалы
+
+#### Презентации
+
+https://drive.google.com/open?id=0B3gh58c3n_FXRk5xM3d3NmZjd0k
+
+#### Книга
+
+* 8 раздел - 8.5 - 8.8
+
+#### learn.javascript:
+
+* https://learn.javascript.ru/global-object
+* https://learn.javascript.ru/closures
+* https://learn.javascript.ru/scope-new-function
+* https://learn.javascript.ru/closures-usage
+* https://learn.javascript.ru/closures-module
+* https://learn.javascript.ru/object-methods
+* https://learn.javascript.ru/call-apply
+
+### Домашнее задание
+
+Папка lesson5
+
 * Понятие замыкания и области применения
 * Рекурсия и стек
 * Функции конструкторы
