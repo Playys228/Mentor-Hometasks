@@ -117,6 +117,7 @@ https://drive.google.com/open?id=0B3gh58c3n_FXcmlJY3N2a0t4dEU
 * https://learn.javascript.ru/array-iteration
 * https://learn.javascript.ru/array-methods
 * https://learn.javascript.ru/object-for-in
+* https://learn.javascript.ru/object-conversion
 
 ### Домашнее задание
 
