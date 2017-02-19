@@ -32,6 +32,12 @@ https://drive.google.com/open?id=0B3gh58c3n_FXTy1mQkVXTlk1RUE
 * https://learn.javascript.ru/variables
 * https://learn.javascript.ru/variable-names
 * https://learn.javascript.ru/types-intro
+
+* https://learn.javascript.ru/number
+* https://learn.javascript.ru/string
+* https://learn.javascript.ru/object
+* https://learn.javascript.ru/array
+
 * https://learn.javascript.ru/operators
 * https://learn.javascript.ru/comparison
 * https://learn.javascript.ru/types-conversion
@@ -52,15 +58,70 @@ https://drive.google.com/open?id=0B3gh58c3n_FXTy1mQkVXTlk1RUE
 * Логические выражения
 * Функции - создание и структура
 * Условные инструкции
-* Цыклы
+
+### Материалы
+
+#### Презентация
+https://drive.google.com/open?id=0B3gh58c3n_FXTTZOYmZLX0FGdzg
+
+#### Книга
+
+* 4 раздел - весь
+* 5 раздел - весь
+* 6 раздел - кроме 6.7 - 6.10
+
+#### learn.javascript:
+
+* https://learn.javascript.ru/operators
+* https://learn.javascript.ru/properties-and-methods
+* https://learn.javascript.ru/comparison
+* https://learn.javascript.ru/global-object
+* https://learn.javascript.ru/function-basics
+* https://learn.javascript.ru/function-declaration-expression
+* https://learn.javascript.ru/ifelse
+* https://learn.javascript.ru/switch
+* https://learn.javascript.ru/logical-ops
+* https://learn.javascript.ru/object-reference
+* https://learn.javascript.ru/array
+
+### Домашнее задание
+
+Папка lesson2
 
 ## 3 lesson
 
+* Цыклы
 * Объекты
 * Методы объектов
 * Глобальные объекты для всех типов данный
 * Явное преобразование типов
 * Преобразование объектов через valueOf && toString
+
+### Материалы
+
+#### Презентации
+
+https://drive.google.com/open?id=0B3gh58c3n_FXTTZOYmZLX0FGdzg
+https://drive.google.com/open?id=0B3gh58c3n_FXcmlJY3N2a0t4dEU
+
+#### Книга
+
+* 3 раздел - 3.12 - 3.14
+* 6 раздел - 6.7 - 6.10
+* 7 раздел
+* 8 раздел
+
+#### learn.javascript:
+
+* https://learn.javascript.ru/while-for
+* https://learn.javascript.ru/array-iteration
+* https://learn.javascript.ru/array-methods
+* https://learn.javascript.ru/object-for-in
+
+### Домашнее задание
+
+Папка lesson3
+
 * Работа с объектом Math
 * Работа с объектом Date
 * Работа со строками
