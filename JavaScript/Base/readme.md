@@ -123,10 +123,38 @@ https://drive.google.com/open?id=0B3gh58c3n_FXcmlJY3N2a0t4dEU
 
 Папка lesson3
 
+## 4 lesson
+
 * Работа с объектом Math
 * Работа с объектом Date
 * Работа со строками
 * Работа с массивами
+
+### Материалы
+
+#### Презентации
+
+https://drive.google.com/open?id=0B3gh58c3n_FXcmlJY3N2a0t4dEU
+
+#### Книга
+
+* 3 раздел - 3.12 - 3.14
+* 6 раздел - 6.7 - 6.10
+* 7 раздел
+* 8 раздел
+
+#### learn.javascript:
+
+* https://learn.javascript.ru/while-for
+* https://learn.javascript.ru/array-iteration
+* https://learn.javascript.ru/array-methods
+* https://learn.javascript.ru/object-for-in
+* https://learn.javascript.ru/object-conversion
+
+### Домашнее задание
+
+Папка lesson3
+
 * Глобальный объект window ссылка this
 * Области видимости и где они есть
 * Function scope
