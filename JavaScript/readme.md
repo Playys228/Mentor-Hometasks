@@ -257,8 +257,48 @@ https://drive.google.com/open?id=0B3gh58c3n_FXRk5xM3d3NmZjd0k
 
 ## 7 lesson
 
+* Функции конструкторы
+* Контексты функций конструкторов
+* Создание методов объекта через Object.defineProperty
+* Изменение контекста через bind()
+* Прототип и его применение
+* Создание классов
+
+### Материалы
+
+#### Презентации
+
+https://drive.google.com/open?id=0B3gh58c3n_FXRk5xM3d3NmZjd0k
+
+#### Книга
+
+* 9 раздел - 9.1 - 9.3
+
+#### learn.javascript:
+
+* https://learn.javascript.ru/constructor-new
+* https://learn.javascript.ru/functional-inheritance
+* https://learn.javascript.ru/prototype
+* https://learn.javascript.ru/new-prototype
+* https://learn.javascript.ru/native-prototypes
+* https://learn.javascript.ru/bind
+
+### Other
+
+* https://learn.javascript.ru/prtototype
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/proto
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/create
+
+### Домашнее задание
+
+Папка lesson7
+
+## 8 lesson
+
 * Объектно-ориентированный JS
-* Прототипы объектов
 * Встроенные методы объектов для создание экземпляров
 * Наследование, создание экземпляров классов
 
@@ -266,12 +306,12 @@ https://drive.google.com/open?id=0B3gh58c3n_FXRk5xM3d3NmZjd0k
 
 #### Презентации
 
-https://drive.google.com/open?id=0B3gh58c3n_FXRk5xM3d3NmZjd0k <br/>
+https://drive.google.com/open?id=0B3gh58c3n_FXRk5xM3d3NmZjd0k <br>
 https://drive.google.com/open?id=0B3gh58c3n_FXZjlFOVB3SzROUlU
 
 #### Книга
 
-* 10 раздел
+* 9 раздел - 9.3 - 9.7
 
 #### learn.javascript:
 
@@ -279,10 +319,6 @@ https://drive.google.com/open?id=0B3gh58c3n_FXZjlFOVB3SzROUlU
 * https://learn.javascript.ru/class-instanceof
 * https://learn.javascript.ru/internal-external-interface
 * https://learn.javascript.ru/getters-setters
-* https://learn.javascript.ru/functional-inheritance
-* https://learn.javascript.ru/prototype
-* https://learn.javascript.ru/new-prototype
-* https://learn.javascript.ru/native-prototypes
 * https://learn.javascript.ru/classes
 * https://learn.javascript.ru/class-inheritance
 * https://learn.javascript.ru/instanceof
@@ -298,5 +334,5 @@ https://drive.google.com/open?id=0B3gh58c3n_FXZjlFOVB3SzROUlU
 
 ### Домашнее задание
 
-Папка lesson7
+Папка lesson8
 
