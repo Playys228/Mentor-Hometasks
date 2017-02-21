@@ -1,58 +1,18 @@
-# Домашнее задание по JS - контексты
+## 1 task
 
-## Опеределить на какой контекст будет ссылатся this в результате выполнений следующих примеров
+Write a JavaScript program to get the integers in range (x, y)
 
-```
+**Example:** range(2, 9)
+**Expected Output:** [3, 4, 5, 6, 7, 8]
 
-function isContextEqualTo(contextLink) {
-   console.log(contextLink === this);
-}
+## 2 task
 
-function name() {
-   isContextEqualTo(window); // ??
-}
+Write a merge sort program in JavaScript. Go to the editor
 
-var name = "Vasya";
+**Sample input:** [34,7,23,32,5,62]
+**Expected Output:** [5, 7, 23, 32, 34, 62]
 
-var user = {
-    name: "Lylya",
-    getName: function () {
-        return this.name;
-    }
-}
+## 3 task
 
-console.log(user.getName()); // ??
-
-var getName = user.getName;
-
-console.log(getName()); // ??
-
-```
-
-```
-
-function Person(name, age) {
-    this.name = name;
-    this.age = age;
-    
-    this.getName = function () {
-       return this.name;
-    };
-}
-
-Person.prototype.getAge = function () {
-    return this.age;
-};
-
-var user = new Person("erer", 45);
-
-
-var getAge = Person.prototype.getAge;
-var getName = user.getName;
-
-consoe.log(getAge()); // ??
-consoe.log(getName()); // ??
-consoe.log(user.getName()); // ??
-
-```
+Write a JavaScript program to find the greatest common divisor (gcd) of two positive numbers.
 
