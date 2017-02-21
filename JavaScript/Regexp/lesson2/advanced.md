@@ -1,66 +1,28 @@
 ## 1 task
 
-Create regexp that will find only positive digits in string
-
-Example:
-```
-var re = /* your regexp */
-
-var str = "1.5 0 12. 123.4.";
-
-alert( str.match(re) );   // 1.5, 0, 12, 123.4
-```
+Write a JavaScript program to test the first character of a string is uppercase or not
 
 ## 2 task
 
-Создайте рег выражение которое найдет все слова которые написаны вот таким вот образом: СлОвО и 
-выведите их в массив:
-
-Example:
-```
-var re = /* your regexp */
-
-var str = "КаЖдЫй день пРоИсХоДиТ что то просто чУдЕсНоЕ";
-```
+Write a JavaScript program to check a credit card number. 
 
 ## 3 task
 
-Найдите все числа в строке и верните их сумму:
+Write a JavaScript program to count number of words in string.
 
-Example:
-```
-var re = /* your regexp */
-
-var str = "КаЖ2дЫй де34нь пРо4ИсХоДиТ 4 чт3о то 1-5 пр5 о44.5сто чУдЕ3сНоЕ";
-```
+Note : 
+- Remove white-space from start and end position. 
+- Convert 2 or more spaces to 1. 
+- Exclude newline with a start spacing.
 
 ## 4 task
 
-Создайте страницу с инпутом и списком контактов
-Cделайте живой поиск по контактам если вы находите совпадение в значении инпута 
-и в каком из элементов списка в контактах, если совпадений нету то пункт списка
-должен скрываться, если поле пустое все элементы
-списка должна быть видимыми
+Write a JavaScript function to check whether a given value is IP value or not.
 
 ## 5 task
 
-Арифметическое выражение состоит из двух чисел и операции между ними, например:
+Write a JavaScript function to check whether a given value is hexcolor value or not.
 
-<ul>
-<li>1 + 2</li>
-<li>1.2 * 3.4</li>
-<li>-3 / -6</li>
-<li>-2 - 2</li>
-</ul>
+## 6 task
 
-Список операций: "+", "-", "*" и "/".
-
-Также могут присутствовать пробелы вокруг оператора и чисел.
-
-Напишите функцию, которая будет получать выражение и возвращать массив из трёх аргументов:
-
-<ol>
-<li>Первое число.</li>
-<li>Оператор.</li>
-<li>Второе число.</li>
-</ol>
+Write a JavaScript function to check whether a given value is Ukraine zip code or not.
