@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Test</title>
+</head>
+<body>
+
+<form action="https://" id="createUser" method="POST">
+  <label for="">
+    Name
+    <input type="text" name="name">
+  </label>
+
+  <label for="">
+    Last name
+    <input type="text" name="last_name">
+  </label>
+
+  <button>Click me</button>
+</form>
+
+<script>
+  var xhr = new XMLHttpRequest();
+
+  xhr.open("GET", "users.json", false);
+
+  xhr.send();
+
+  if (xhr.status === 200) {
+  	console.log(JSON.parse(xhr.responseText));
+  }
+</script>
+
+</body>
+</html>
