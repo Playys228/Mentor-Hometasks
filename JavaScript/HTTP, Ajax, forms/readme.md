@@ -1,69 +1,87 @@
 ## 1 lesson
 
-* Флаги
-* Классы символов
-* Повторение
-* Жадные и ленивые квантификаторы
+* Свойства и методы форм
+* HTTP - экскурс в работу веба (сервер-клиент)
+* CRUD actions 
+* Элементы и поля форм
+* Навигация и свойства элементов форм
+* Отправка формы
 
 ### Материалы
 
 #### Презентация
-https://drive.google.com/open?id=0B3gh58c3n_FXTy1mQkVXTlk1RUE
+
+https://drive.google.com/open?id=0B3gh58c3n_FXWl9vNHU0eFhZNmM
+https://drive.google.com/open?id=0B3gh58c3n_FXNFlma0prUkJBQ0U
+https://drive.google.com/open?id=0B3gh58c3n_FXRWxmUUNWUER0b2M
 
 #### Книга
 
-* 11 раздел - 11.1.1 - 11.1.3
+* 18 раздел
 
 #### learn.javascript:
 
-* https://learn.javascript.ru/regexp-introduction
-* https://learn.javascript.ru/regexp-methods
-* https://learn.javascript.ru/regexp-character-classes
-* https://learn.javascript.ru/regexp-character-sets-and-ranges
-* https://learn.javascript.ru/regexp-quantifiers
-* https://learn.javascript.ru/regexp-greedy-and-lazy
-* https://learn.javascript.ru/regexp-groups
+* https://learn.javascript.ru/form-elements
+* https://learn.javascript.ru/events-change
+* https://learn.javascript.ru/forms-submit
+* https://learn.javascript.ru/focus-blur
 
 ### Домашнее задание
 
 Файл lesson1
 
-
 ## 2 lesson
 
-* Альтернативы, группировка и ссылки
-* Якорные символы
-* Методы String и Regexp для поиска и замены
+* Валидация данных формы
+* Подсказки в элементах форм
+* Применение атрибутов HTML5 для валидации
+* JS API проверки ограничений валидации
 
 ### Материалы
 
 #### Презентация
 
-https://drive.google.com/open?id=0B3gh58c3n_FXTy1mQkVXTlk1RUE
+https://drive.google.com/open?id=0B3gh58c3n_FXWl9vNHU0eFhZNmM
+https://drive.google.com/open?id=0B3gh58c3n_FXNFlma0prUkJBQ0U
+https://drive.google.com/open?id=0B3gh58c3n_FXRWxmUUNWUER0b2M
 
 #### Книга
 
-* 11 раздел - 11.1.4 - 11.3
+* 18 раздел
 
 #### learn.javascript:
 
-* https://learn.javascript.ru/regexp-backreferences
-* https://learn.javascript.ru/regexp-alternation
-* https://learn.javascript.ru/regexp-ahchors
-* https://learn.javascript.ru/regexp-multiline-mode
-* https://learn.javascript.ru/regexp-infinite-backtracking-problem
-
-#### Другое:
-
-* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp
-* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp#character-classes
-* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp#character-sets
-* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp#boundaries
-* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp#alternation
-* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp#grouping-back-references
-* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp#quantifiers
-* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp#assertions
+* https://learn.javascript.ru/form-elements
+* https://learn.javascript.ru/events-change
+* https://learn.javascript.ru/forms-submit
+* https://learn.javascript.ru/focus-blur
 
 ### Домашнее задание
 
 Файл lesson2
+
+## 3 lesson
+
+* Методология ajax
+* Методология commet
+
+### Материалы
+
+#### Презентация
+
+https://drive.google.com/open?id=0B3gh58c3n_FXUmVrQk9EYko3WWc
+
+#### Книга
+
+* 20 раздел
+
+#### learn.javascript:
+
+* https://learn.javascript.ru/ajax-intro
+* https://learn.javascript.ru/ajax-xmlhttprequest
+* https://learn.javascript.ru/xhr-form
+* https://learn.javascript.ru/xhr-longpoll
+
+### Домашнее задание
+
+Файл lesson3

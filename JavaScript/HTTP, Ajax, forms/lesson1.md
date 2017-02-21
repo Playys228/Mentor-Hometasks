@@ -1,39 +1,50 @@
 ## 1 task
 
-Дана строка 'aaa@bbb@ccc@ddd@ggg@www@'. 
-Найдите и замените все буквы находящиеся между символами "@ ... @" на пробелы.
+Создайте html файл с формой где будут:
+
+1) 4 инпута для имени, фамилии, телефона и галочка для подтверждения регистрации <br>
+2) кнопка Submit
+
+Обязательно:
+
+1) Для каждого input обавьте уникальный id  <br>
+2) Метод для отправки формы: POST <br>
+3) Ссылка: /users 
 
 ## 2 task
 
-Запишите в replace выражение коотрое вернет следующий результат:
+Создайте функцию которая будет создавать обьект с данными заполненными в форме
+
+#### Example:
 
 ```
-var date = "31/12/2025";
-
-console.log(date.replace() ... ) // 31 - 12 - 2025
+function getData() {
+  
+  // your code here
+  
+  return {
+    name: "Vasya",
+    lastName: "Koskin",
+    phone: "380905675453",
+    agree: true
+  };
+}
 ```
 
 ## 3 task
 
-```
-var text = '<img src="a">   <img src="b" id="c"/>';
-
-text = text.replace(... place here your replacement ... )
-
-// now text = '<img src="a"/>   <img src="b" id="c"/>'
-```
-
+1) Создайте пустой массив **allUsers** где будут храниться все пользователи которые были добавлены <br>
+2) При submit формы отмените перезагрузку страницы и сделайте следующее:  <br>
+  2.1) Проверяйте все ли поля заполнены, если да идем дальше, если нет выводим пользователю alert что не все поля заполнены <br>
+  2.2) Если все поля заполнены в массив добавляем новый обьект с новым созданным юзером и очищаем все поля формы <br>
+  
+  
 ## 4 task
 
-Learn these: 
-https://learn.javascript.ru/regexp-ahchors
+Создайте под формой Список (ul>li) и выведите всех пользователей которые есть в вашем массиве **allUsers** в этом списке
 
-After that, function testNum() that will take 1 param: phone number string and define whether it have more than 8 symbols, 
-contain only numbers (no slashes and spaces, if have replace them to empty string).
+**!!! При добавлении пользователя через форму в вашем списке должен появляться новый юзер в конец списка**
 
-After that create an html page with input field and button, where user will write his/her phone number, 
-after user press enter button on the right your function testNum() will check the phone number he enters 
-and return to user ok (create span under the input field (color of text must be green)) - if pattern match, 
-or error (the same create span with "error" text under (color of text must be red));
+## 5 task
 
-After 4 seconds delete the span and the input field should be empty again an the user can try again later.
+Добавьте в списке для кадждого элемента крестик справа, при нажатии на который юзер будет удаляться из DOM и из массива **allUsers**
