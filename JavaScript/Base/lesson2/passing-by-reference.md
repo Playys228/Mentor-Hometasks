@@ -35,3 +35,46 @@ var obj = {
 obj.number++;
 console.log(obj.number, t);
 ```
+
+#### 4
+
+```
+var object1 = {
+    str: {
+        name: "L"
+    }
+};
+
+var obj = {
+    number: 67
+};
+
+object1.str.number = obj.number;
+obj.number++;
+
+var str = object1.str;
+
+object1.str.name = "Kolya";
+
+console.log(str, object1.str.number);
+```
+
+#### 5
+
+```
+var object1 = {
+    obj: {
+        number: 0
+    }
+};
+
+var object2 = {
+    str: "Kolya"
+};
+
+object2.str.number = object2.str.number;
+
+object2.str.number++;
+
+console.log(object2.str.number);
+```
