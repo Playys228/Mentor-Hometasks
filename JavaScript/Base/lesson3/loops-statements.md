@@ -7,3 +7,14 @@ Write a JavaScript for loop that will iterate from 0 to 15. For each iteration, 
 - "1 is odd" 
 - "2 is even" 
 
+## 2 task
+
+Write a JavaScript program which iterates the integers from 1 to 100. But for multiples of three print "Fizz" instead of the number and for the multiples of five print "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
+
+## 3 task
+
+Write a JavaScript program to compute the greatest common divisor (GCD) of two positive integers
+
+## 4 task
+
+Write a JavaScript program to sum the multiples of 3 and 5 under 1000. 
