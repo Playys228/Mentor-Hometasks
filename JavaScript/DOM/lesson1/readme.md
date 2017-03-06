@@ -24,17 +24,15 @@
 
 ## 7 task
 
-Напишите функцию showNotification(options), которая показывает уведомление, пропадающее через 1.5 сек.
+Напишите функцию showNotification(options), которая показывает уведомление, пропадающее через 5 сек.
 
 ```
 /**
- * Показывает уведомление, пропадающее через 1.5 сек
+ * Показывает уведомление, пропадающее через 5 сек
  *
  * @param options.top {number} вертикальный отступ, в px
  * @param options.right {number} правый отступ, в px
- * @param options.cssText {string} строка стиля
- * @param options.className {string} CSS-класс
- * @param options.html {string} HTML-текст для показа
+ * @param options.show {boolean} показать.скрыть элемент
  */
 function showNotification(options) {
   // ваш код
@@ -44,11 +42,15 @@ function showNotification(options) {
 Example of usage:
 
 ```
-// покажет элемент с текстом "Привет" и классом welcome справа-сверху окна
+// покажет элемент справа-сверху окна
 showNotification({
   top: 10,
   right: 10,
-  html: "Привет",
-  className: "welcome"
+  show: true
+});
+
+// спрячет элемент
+showNotification({
+  show: false
 });
 ```
