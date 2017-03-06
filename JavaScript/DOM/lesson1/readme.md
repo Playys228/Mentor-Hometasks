@@ -9,3 +9,46 @@
 ## 3 task
 
 Выведите количество тегов form на странице
+
+## 4 task
+
+Закрасьте body документа в зеленый цвет
+
+## 5 task
+
+Закрасьте body документа в зеленый цвет, а цвет текста сделайте белым)
+
+## 6 task
+
+Выведите через консоль background цвет body и цвет текста через запятую. Используйте встроенные JS методы
+
+## 7 task
+
+Напишите функцию showNotification(options), которая показывает уведомление, пропадающее через 1.5 сек.
+
+```
+/**
+ * Показывает уведомление, пропадающее через 1.5 сек
+ *
+ * @param options.top {number} вертикальный отступ, в px
+ * @param options.right {number} правый отступ, в px
+ * @param options.cssText {string} строка стиля
+ * @param options.className {string} CSS-класс
+ * @param options.html {string} HTML-текст для показа
+ */
+function showNotification(options) {
+  // ваш код
+}
+```
+
+Example of usage:
+
+```
+// покажет элемент с текстом "Привет" и классом welcome справа-сверху окна
+showNotification({
+  top: 10,
+  right: 10,
+  html: "Привет",
+  className: "welcome"
+});
+```
