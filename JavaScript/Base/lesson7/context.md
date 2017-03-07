@@ -38,5 +38,7 @@ Person.prototype.getAge = function() {
     return this.name;
 }
 
+consoe.log(user.getAge()); //  в каком контексте вызана функция?
+
 ```
 
