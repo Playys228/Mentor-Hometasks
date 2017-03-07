@@ -1,29 +1,8 @@
 ## 1 task
 
-Write a JavaScript program to get the integers in range (x, y)
-
-**Example:** range(2, 9)
-**Expected Output:** [3, 4, 5, 6, 7, 8]
-
-## 2 task
-
-Write a merge sort program in JavaScript. Go to the editor
-
-**Sample input:** [34,7,23,32,5,62]
-**Expected Output:** [5, 7, 23, 32, 34, 62]
-
-## 3 task
-
-Write a JavaScript program to find the greatest common divisor (gcd) of two positive numbers.
-
-## 4 task
-
-#### Closure
-
 Example:
 
-```
-
+```javascript
 var makeFunction = function () {
     var addOne = function (x) {
         return x + 1;
@@ -45,3 +24,28 @@ Write a JavaScript program to calculate the factorial of a number using 1 task, 
 
 Then give an answer to user after calculation is finished using alert(number);
 
+## 2 task
+
+Make this syntax possible: var a = add(2)(3); //5
+
+```javascript
+var add = function (a) {
+    return function (b) {
+        return a + b;
+    };
+};
+
+console.log(add(2)(3)); // 5
+
+```
+
+## 3 task 
+
+Transform array of numbers to array of functions that will alert that digits:
+
+```javascript
+ 
+var numberArray = [1, 2, 3, 4, 10, 5, 6, 7];
+
+// create in result we will: [function (){...}, function (){...}, function (){...}, function (){...}]
+```
