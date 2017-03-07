@@ -3,6 +3,7 @@
 ## Опеределить на какой контекст будет ссылатся this в результате выполнений следующих примеров
 
 ```
+
 function isContextEqualTo(contextLink) {
    console.log(contextLink === this);
 }
@@ -31,5 +32,6 @@ user.getName = name;
 console.log(user.getName()); // ??
 
 user.getName.call(window); // ??
+
 ```
 
