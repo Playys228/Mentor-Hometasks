@@ -47,5 +47,5 @@ Transform array of numbers to array of functions that will alert that digits:
  
 var numberArray = [1, 2, 3, 4, 10, 5, 6, 7];
 
-// create in result we will: [function (){...}, function (){...}, function (){...}, function (){...}]
+// in result we will have: [function (){...}, function (){...}, function (){...}, function (){...}]
 ```
