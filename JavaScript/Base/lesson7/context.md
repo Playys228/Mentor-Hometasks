@@ -2,7 +2,7 @@
 
 ## Опеределить на какой контекст будет ссылатся this в результате выполнений следующих примеров
 
-```
+```javascript
 
 function isContextEqualTo(contextLink) {
    console.log(contextLink === this);
