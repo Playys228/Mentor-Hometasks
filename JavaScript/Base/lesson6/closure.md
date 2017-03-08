@@ -29,10 +29,8 @@ Then give an answer to user after calculation is finished using alert(number);
 Make this syntax possible: var a = add(2)(3); //5
 
 ```javascript
-var add = function (a) {
-    return function (b) {
-        return a + b;
-    };
+var add = function () {
+    // your code
 };
 
 console.log(add(2)(3)); // 5
