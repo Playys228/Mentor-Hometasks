@@ -24,7 +24,7 @@ var Lily = new Person(аргументы ...)
 
 Есть объект ladder
 
-```
+```javascript
 var ladder = {
   step: 0,
   up: function() { // вверх по лестнице
@@ -41,7 +41,7 @@ var ladder = {
 
 Сейчас, для последовательного вызова нескольких методов объекта, нужно делать так сделать так:
 
-```
+```javascript
 ladder.up();
 ladder.up();
 ladder.down();
