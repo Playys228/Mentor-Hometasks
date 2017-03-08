@@ -84,19 +84,19 @@ makeCount(); // 6
 
 ## 6 task 
 
-Please write a function "makeCount" so the following code will be true.
+Please write a function "makeCount" so the following code will be true. Use the previous function.
 
 ```javascript
-function createCount () {
+function createCount (startFrom) {
 }
 
-var makeCount = createCount();
+var makeCount = createCount(4);
 
-makeCount(); // 1
-makeCount(); // 2
-makeCount(); // 3
-makeCount(); // 4
 makeCount(); // 5
 makeCount(); // 6
+makeCount(); // 7
+makeCount(); // 8
+makeCount(); // 9
+makeCount(); // 10
 
 ```
