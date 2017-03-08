@@ -8,7 +8,7 @@
 
 Первый шаг задачи: вызов calculate(str) принимает строку, например «1 + 2», с жёстко заданным форматом «ЧИСЛО операция ЧИСЛО» (по одному пробелу вокруг операции), и возвращает результат. Понимает плюс + и минус -. Пример использования:
 
-```
+```javascript
 var calc = new Calculator;
 
 console.log( calc.calculate('3 + 7') ); // 10
@@ -16,7 +16,7 @@ console.log( calc.calculate('3 + 7') ); // 10
 
 Второй шаг — добавить калькулятору метод addMethod(name, func), который учит калькулятор новой операции. Он получает имя операции name и функцию от двух аргументов func(a,b), которая должна её реализовывать. Например, добавим операции умножить , поделить / и возвести в степень *:
 
-```
+```javascript
 var powerCalc = new Calculator;
 powerCalc.addMethod('*', function(a, b) {
   return a * b;
@@ -41,7 +41,7 @@ console.log( result ); // 8
 
 У вас есть объект User, который хранит имя и фамилию в свойстве this.fullName:
 
-```
+```javascript
 function User(fullName) {
   this.fullName = fullName;
   
@@ -56,7 +56,7 @@ var vasya = new User('Александр Пушкин');
 
 Сделайте, чтобы свойства firstName и lastName были доступны не только на чтение, но и на запись, вот так:
 
-```
+```javascript
 var vasya = new User('Александр Пушкин');
 
 // чтение firstName/lastName
