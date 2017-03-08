@@ -42,7 +42,7 @@
 
 Подсказка: чтобы определить какой месяц у нас сейчас:
 
-```
+```javascript
 var nowMonth = (new Date()).getMonth() + 1
 ```
 
