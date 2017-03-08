@@ -43,7 +43,7 @@ var vovochka = { name: 'Вовочка', age: 6 };
 
 var people = [ vasya , masha , vovochka ];
 
-... ваш код ...
+// ... ваш код ...
 
 // теперь people: [vovochka, masha, vasya]
 console.log(people[0].age) // 6
