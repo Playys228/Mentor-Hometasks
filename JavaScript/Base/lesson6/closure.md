@@ -47,3 +47,56 @@ var numberArray = [1, 2, 3, 4, 10, 5, 6, 7];
 
 // in result we will have: [function (){...}, function (){...}, function (){...}, function (){...}]
 ```
+
+## 4 task 
+
+Please write a function "double" and "doubleTripple" so the following code will be true.
+To create a "doubleTripple" function please use double function inside.
+
+```javascript
+ double(9); // 18
+ double(3); // 6
+ 
+ doubleTripple(3); // 18 = 3 * 3 * 2
+ doubleTripple(2); // 12 = 2 * 3 * 2
+ doubleTripple(5); // 30 = 5 * 3 * 2
+```
+
+## 5 task 
+
+Please write a function "makeCount" so the following code will be true.
+
+```javascript
+function createCount () {
+// your code here
+}
+
+var makeCount = createCount();
+
+makeCount(); // 1
+makeCount(); // 2
+makeCount(); // 3
+makeCount(); // 4
+makeCount(); // 5
+makeCount(); // 6
+
+```
+
+## 6 task 
+
+Please write a function "makeCount" so the following code will be true.
+
+```javascript
+function createCount () {
+}
+
+var makeCount = createCount();
+
+makeCount(); // 1
+makeCount(); // 2
+makeCount(); // 3
+makeCount(); // 4
+makeCount(); // 5
+makeCount(); // 6
+
+```
