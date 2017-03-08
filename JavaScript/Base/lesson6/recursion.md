@@ -1,13 +1,13 @@
 ## 1 task
 
-Write a JavaScript program to get the integers in range(x, y)
+Write a JavaScript program to get the integers in range(x, y). Use recursion for this task.
 
 **Example:** range(2, 9) <br>
 **Expected Output:** [3, 4, 5, 6, 7, 8] <br>
 
 ## 2 task
 
-Write a merge sort program in JavaScript.
+Write a merge sort program in JavaScript. Use recursion for this task.
 
 **Sample input:** [34,7,23,32,5,62] <br>
 **Expected Output:** [5, 7, 23, 32, 34, 62]<br>
@@ -15,9 +15,11 @@ Write a merge sort program in JavaScript.
 
 ## 3 task
 
-Write a JavaScript program to find the greatest common divisor (gcd) of two positive numbers.
+Write a JavaScript program to find the greatest common divisor (gcd) of two positive numbers. Use recursion for this task.
 
 ## 4 task
+
+Use recursion for this task!
 
 Последовательность чисел Фибоначчи имеет формулу Fn = Fn-1 + Fn-2. То есть, следующее число получается как сумма двух предыдущих.
 
