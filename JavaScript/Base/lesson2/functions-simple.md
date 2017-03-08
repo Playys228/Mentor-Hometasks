@@ -2,19 +2,20 @@
 
 Create function "getName" that ask user his name with promt window and alerts his name to him in format: "Hello, <his_name>".
 
-```
+```javascript
 function getName(x, y) {
 // your code here
 }
 
 getName(); // if I put "Lily" in promt I will see in alert: "Hello, Lily";
+
 ```
 
 ## 2 task
 
 Create function double(x) that returns the number multiply with 2
 
-```
+```javascript
 function double(x) {
 // your code here
 }
@@ -26,7 +27,7 @@ double(6); // logs in console => 12
 
 Create function range(x, y) that returns a sum of digits in the range of numbers [x, y];
 
-```
+```javascript
 function range(x, y) {
 // your code here
 }
