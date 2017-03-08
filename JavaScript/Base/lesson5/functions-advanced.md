@@ -10,7 +10,7 @@
 
 Напишите функцию sumTo(n), которая для данного n вычисляет сумму чисел от 1 до n, например:
 
-```
+```javascript
 sumTo(1) = 1
 sumTo(2) = 2 + 1 = 3
 sumTo(3) = 3 + 2 + 1 = 6
@@ -36,7 +36,7 @@ sumTo(4) = 4 + 3 + 2 + 1 = 10
 
 Например:
 
-```
+```javascript
 var vasya = { name: 'Вася', age: 23 };
 var masha = { name: 'Маша', age: 18 };
 var vovochka = { name: 'Вовочка', age: 6 };
