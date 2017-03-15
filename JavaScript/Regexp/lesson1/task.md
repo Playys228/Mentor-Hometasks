@@ -1,11 +1,12 @@
 ## 1 task
 
 Дана строка 'aaa@bbb@ccc@ddd@ggg@www@'. 
+
 Найдите и замените все буквы находящиеся между символами "@ ... @" на пробелы.
 
 ## 2 task
 
-Запишите в replace выражение коотрое вернет следующий результат:
+Запишите в replace выражение которое вернет следующий результат:
 
 ```
 var date = "31/12/2025";
@@ -37,3 +38,15 @@ and return to user ok (create span under the input field (color of text must be 
 or error (the same create span with "error" text under (color of text must be red));
 
 After 4 seconds delete the span and the input field should be empty again an the user can try again later.
+
+
+## 5 task
+
+Write a JavaScript program to test the first character of a string is uppercase or not
+
+## 6 task
+
+Write a JavaScript program to check if an inout string is a credit card number. Use prompt to get the card number.
+
+## 7 task
+
