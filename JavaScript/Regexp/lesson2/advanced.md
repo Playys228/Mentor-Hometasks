@@ -32,7 +32,8 @@ Write a JavaScript function to check whether a given value is Ukraine zip code o
 Write a JavaScript function to print an integer with commas as thousands separators.
 
 Test Data :
-```
+
+```javascript
 console.log(thousands_separators(1000)); 
 // "1,000"
 console.log(thousands_separators(10000.23)); 
