@@ -39,14 +39,24 @@ or error (the same create span with "error" text under (color of text must be re
 
 After 4 seconds delete the span and the input field should be empty again an the user can try again later.
 
-
 ## 5 task
 
-Write a JavaScript program to test the first character of a string is uppercase or not
+Write a pattern that matches e-mail addresses.
+
+The personal information part contains the following ASCII characters:
+- Uppercase (A-Z) and lowercase (a-z) English letters.
+- Digits (0-9).
+- Characters ! # $ % & ' * + - / = ? ^ _ \` { | } ~
+- Character . ( period, dot or fullstop) provided that it is not the first or last character and it will not come one after the other.
 
 ## 6 task
 
-Write a JavaScript program to check if an inout string is a credit card number. Use prompt to get the card number.
+Write a JavaScript program to search a date within a string.
 
-## 7 task
+Example:
 
+```
+ testForDate("Hello, my birthday is on 20/06/1993"); // returns [20/06/1993]
+ testForDate("Hello, my favourite days are 20/06/1993 and 20/06/2010"); // returns [20/06/1993, 20/06/2010]
+ 
+```
