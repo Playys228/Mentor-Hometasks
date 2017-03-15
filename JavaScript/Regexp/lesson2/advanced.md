@@ -26,3 +26,17 @@ Write a JavaScript function to check whether a given value is hexcolor value or 
 ## 6 task
 
 Write a JavaScript function to check whether a given value is Ukraine zip code or not.
+
+## 7 task
+
+Write a JavaScript function to print an integer with commas as thousands separators.
+
+Test Data :
+```
+console.log(thousands_separators(1000)); 
+// "1,000"
+console.log(thousands_separators(10000.23)); 
+// "10,000.23"
+console.log(thousands_separators(100000));
+// "100,000"
+```
