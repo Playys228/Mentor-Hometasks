@@ -8,7 +8,7 @@
 
 Запишите в replace выражение которое вернет следующий результат:
 
-```
+```javascript
 var date = "31/12/2025";
 
 console.log(date.replace() ... ) // 31 - 12 - 2025
@@ -16,7 +16,7 @@ console.log(date.replace() ... ) // 31 - 12 - 2025
 
 ## 3 task
 
-```
+```javascript
 var text = '<img src="a">   <img src="b" id="c"/>';
 
 text = text.replace(... place here your replacement ... )
@@ -55,7 +55,7 @@ Write a JavaScript program to search a date within a string.
 
 Example:
 
-```
+```javascript
  testForDate("Hello, my birthday is on 20/06/1993"); // returns [20/06/1993]
  testForDate("Hello, my favourite days are 20/06/1993 and 20/06/2010"); // returns [20/06/1993, 20/06/2010]
  
