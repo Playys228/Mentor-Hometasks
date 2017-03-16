@@ -90,7 +90,7 @@ P.S. Эта функция должна проверять наличие эле
 
 Write a JavaScript function that accept row, column, (to identify a particular cell) and a string to update the content of that cell. 
 
-```
+```javascript
 <!DOCTYPE html>  
 <html>
  <head>
@@ -116,7 +116,7 @@ Write a JavaScript function that accept row, column, (to identify a particular c
 
 Write a JavaScript program to remove items from a dropdown list.
 
-```
+```javascript
 <!DOCTYPE html>  
 <html>
  <head>  
