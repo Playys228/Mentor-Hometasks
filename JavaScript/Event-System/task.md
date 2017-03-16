@@ -48,3 +48,14 @@ Write a JavaScript program to remove items from a dropdown list.
  </body>
 </html>  
 ```
+
+
+## 3 task
+
+Write a JavaScript program to highlight the bold words of the following paragraph, on mouse over a certain link. 
+
+Text example:
+
+```html
+<strong>We</strong> have just started <strong>this</strong> section for the users (<strong>beginner</strong> to intermediate) who <strong>want</strong> to work with <strong>various</strong> JavaScript <strong>problems</strong> and write scripts online to <strong>test</strong> their JavaScript <strong>skill</strong>.</p>
+```
