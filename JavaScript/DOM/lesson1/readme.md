@@ -24,40 +24,6 @@
 
 ## 7 task
 
-Напишите функцию showNotification(options), которая показывает уведомление, пропадающее через 5 сек. Элемент который вы будете показывать уже создан на вашей странице просто он невидим.
-
-```javascript
-/**
- * Показывает уведомление, пропадающее через 5 сек
- *
- * @param options.top {number} вертикальный отступ, в px
- * @param options.right {number} правый отступ, в px
- * @param options.show {boolean} показать.скрыть элемент
- */
-function showNotification(options) {
-  // ваш код
-}
-```
-
-Example of usage:
-
-```javascript
-// покажет элемент справа-сверху окна
-showNotification({
-  top: 10,
-  right: 10,
-  show: true
-});
-
-// спрячет элемент
-showNotification({
-  show: false
-});
-```
-
-
-## 7 task
-
 Here is a sample html file with a submit button. Write a JavaScript function to get the value of the href, hreflang, rel, target, and type attributes of the specified link.
 
 ```javascript
