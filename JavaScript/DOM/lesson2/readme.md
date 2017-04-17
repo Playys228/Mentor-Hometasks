@@ -88,3 +88,9 @@ and return to user ok (create span under the input field (color of text must be 
 or error (the same create span with "error" text under (color of text must be red));
 
 After 4 seconds delete the span and the input field should be empty again an the user can try again later.
+
+```javascript
+setTimeout(function () {
+ // тут пишем наш код который будет выплняться через 4 секунды
+}, 4000);
+```
