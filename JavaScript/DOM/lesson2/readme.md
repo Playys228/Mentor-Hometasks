@@ -32,7 +32,8 @@ td.style.backgroundColor = 'red';
 
 ## 4 задание
 
-Напишите функцию createSpanInBlockByID(blockID) которая будет создавать элемент 'span' в блоке id=blockID createSpanInBlockByID('myBlock') // создаст span в блоке с id='myBlock' 
+Напишите функцию createSpanInBlockByID(blockID) которая будет создавать элемент 'span' в блоке id=blockID 
+
 P.S. Эта функция должна проверять наличие элемента в этом блоке, если он уже там есть второй раз она его добавлять не будет!
 
 ## 5 задание
