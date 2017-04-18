@@ -158,9 +158,11 @@ alert(lazy.food.length);   // 2 (!??)
 
 Создайте класс "Person" который будет иметь обычные для человека характеристики, например: 
 
+```javascript
 legs = 2
 arms = 2
 canWalk = true
+```
 
 и т.д
 
