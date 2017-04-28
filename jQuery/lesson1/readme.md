@@ -1,4 +1,4 @@
-Есть структура html файла:
+## DOM дерево
 
 ```javascript
   <div id="main">
