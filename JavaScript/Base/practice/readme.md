@@ -1,2 +1,0 @@
-## JavaScript Base practical task
-
