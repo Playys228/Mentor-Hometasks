@@ -116,7 +116,6 @@
 			<th colspan="2">теги</th>
 		</tr>
 		<tr>
-			<!-- <th>номер</th> -->
 			<th>тег</th>
 			<th>значение</th>
 		
@@ -130,21 +129,18 @@
 		<tr align="center">
 			<td>2</td>
 			<td>a</td>
-			<!--<td>ссылка</td> -->
-			
+		
 		</tr>
 		
 		<tr align="center">
 			<td>3</td>
 			<td>b</td>
-			<!-- <td>жирный текст</td> -->
 			
 		</tr>
 		
 		<tr align="center">
 			<td>4</td>
 			<td>i</td>
-			<!-- <td>курсив</td>-->
 			
 		</tr>
 		
@@ -169,7 +165,6 @@
 		<tr align="center">
 			<td>8</td>
 			<td>th</td>
-			<!-- <td>заголовок таблицы</td>-->
 		</tr>
 	</tbody>
 </table>
@@ -190,7 +185,6 @@
 			<td> ячейка 6 </td>
 		</tr>
 		<tr>
-			<!-- <td> ячейка 7 </td>-->
 			<td> ячейка 8 </td>
 			<td> ячейка 9 </td>
 		</tr>
