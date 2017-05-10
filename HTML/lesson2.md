@@ -51,19 +51,17 @@
   <table border="1" cellspacing="0" cellpadding="0" width="400" height="200">
 		<tbody>
       <tr>
-        <th> ячейка 1 </th>
-        <th> ячейка 2 </th>
-        <th> ячейка 3 </th>
+        <th colspan=3> Название </th>
       </tr>
       <tr>
-        <td align="right"> ячейка 4 </td>
+        <td style="text-align: right;"> ячейка 4 </td>
         <td> ячейка 5 </td>
         <td> ячейка 6 </td>
       </tr>
       <tr>
         <td> ячейка 7 </td>
-        <td align="center"> ячейка 8 </td>
-        <td align="right"> ячейка 9 </td>
+        <td style="text-align: center;"> ячейка 8 </td>
+        <td style="text-align: right;"> ячейка 9 </td>
       </tr>
     </tbody>
   </table>
