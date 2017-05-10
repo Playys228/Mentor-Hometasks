@@ -35,12 +35,11 @@
 		</tr>
 		<tr>
 			<td colspan="2"> ячейка 4 и 5 </td>
-			<td> ячейка 6 </td>
+			<td rowspan="2"> ячейка 6 и 9 </td>
 		</tr>
 		<tr>
 			<td> ячейка 7 </td>
 			<td> ячейка 8 </td>
-			<td> ячейка 9 </td>
 		</tr>
 	</tbody>
   </table>
