@@ -86,13 +86,8 @@
 			<td>2</td>
 			<td>a</td>
 			<td>
-				<table border="1" cellspacing="0" width="400" height="200">
+				<table border="0" cellspacing="0" width="400" height="200">
 					<tbody>	
-						<tr>
-							<th>номер</th>
-							<th>тег</th>
-							<th>значение</th>
-						</tr>
 						<tr style="text-align: center;">
 							<td>1</td>
 							<td>p</td>
