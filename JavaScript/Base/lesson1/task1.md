@@ -51,7 +51,7 @@
 
 - Cоздайте пустой объект **complexObj** 
 - Добавьте в него пары 
-    ключ: значения <br/>
+    ключ = значения <br/>
     _name_ = _"Your_name"_ <br/>
     _age_ = _Your_age(type number)_ <br/>
     _friends_ = _["Add list of friend's names into this array"]_ <br/>
