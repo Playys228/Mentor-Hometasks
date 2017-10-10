@@ -51,11 +51,11 @@
 
 - Cоздайте пустой объект **complexObj** 
 - Добавьте в него пары 
-    ключ: значения 
-    _name_ = _"Your_name"_
-    _age_ = _Your_age(type number)_
-    _friends_ = _["Add list of friend's names into this array"]_
-    _soc_links_(тип объект) с 2 ключами: facebook and googlePlus
+    ключ: значения <br/>
+    _name_ = _"Your_name"_ <br/>
+    _age_ = _Your_age(type number)_ <br/>
+    _friends_ = _["Add list of friend's names into this array"]_ <br/>
+    _soc_links_(тип объект) с 2 ключами: facebook and googlePlus <br/>
 - Выведите в косоль сообщения используя строки шаблоны вида:
   "My name is here_is_your_name"
   "I am your_age old"
