@@ -50,16 +50,16 @@ var numberArray = [1, 2, 3, 4, 10, 5, 6, 7];
 
 ## 4 task 
 
-Please write a function "double" and "doubleTripple" so the following code will be true.
-To create a "doubleTripple" function please use double function inside.
+Please write a function "double" and "doublePLusFive" so the following code will be true.
+To create a "doublePLusFive" function please use double function inside.
 
 ```javascript
  double(9); // 18
  double(3); // 6
  
- doubleTripple(3); // 18 = 3 * 3 * 2
- doubleTripple(2); // 12 = 2 * 3 * 2
- doubleTripple(5); // 30 = 5 * 3 * 2
+ doublePLusFive(3); // 18 = 3 * 2 + 5
+ doublePLusFive(2); // 12 = 2 * 2 + 5
+ doublePLusFive(5); // 30 = 5 * 2 + 5
 ```
 
 ## 5 task 
