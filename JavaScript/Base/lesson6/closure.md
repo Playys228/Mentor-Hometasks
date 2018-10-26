@@ -22,7 +22,7 @@ Create a function that will always return a number multiply on 3!
 
 Write a JavaScript program to calculate the factorial of a number using 1 task, but ask user for a number to get factorial from using prompt() function.
 
-Then give an answer to user after calculation is finished using alert(number);
+Then give an answer to user after calculation is finished using console.log(number);
 
 ## 2 task
 
@@ -39,7 +39,7 @@ console.log(add(2)(3)); // 5
 
 ## 3 task 
 
-Transform array of numbers to array of functions that will alert that digits:
+Transform array of numbers to array of functions that will console.log and return that digits:
 
 ```javascript
  
@@ -74,11 +74,11 @@ function createCount () {
 var makeCount = createCount();
 
 makeCount(); // 1
-makeCount(); // 2
-makeCount(); // 3
-makeCount(); // 4
-makeCount(); // 5
-makeCount(); // 6
+makeCount(); // 0
+makeCount(); // 1
+makeCount(); // 0
+makeCount(); // 1
+makeCount(); // 0
 
 ```
 
